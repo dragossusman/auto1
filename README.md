@@ -12,4 +12,4 @@ install unittest(used for runnning tests): https://docs.python.org/2/library/uni
 Running the tests: 
 open command prompt (on Windows)
 move to the directory where Python is installed: C:\Python2.7 , for example
-run the following command: python.exe TestScript.py
+run the following command: python.exe path_to\TestAuto1.py
