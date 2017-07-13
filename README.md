@@ -13,4 +13,12 @@ Running the tests: <br />
 open command prompt (on Windows) <br />
 move to the directory where Python is installed: C:\Python2.7 , for example <br />
 run the following command: python.exe path_to\TestAuto1.py <br />
+
+Steps run: <br />
+1. Open https://auto1.com/en/our-cars <br /> 
+2. Filter by manufacture by clicking checkbox(BMW)  <br />
+3. Verify filter was selected  <br />
+4. Verify all cars are BMW’s on the page  <br />
+5. Verify each car has picture  <br />
+6. Verify each car has complete information (Mileage, Registration is not empty etc.)
  
